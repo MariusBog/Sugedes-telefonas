@@ -45,7 +45,7 @@ PV atsako:
 **Redaguojamas tekstas**
 
 MB klausia:
-- ...  ?
+- Ar matote šį tekstą?
 
 .
 
@@ -120,6 +120,6 @@ MZ klausia:
 .
 
 MB atsako:
-- ... .
+- Gerai.
 
 .
